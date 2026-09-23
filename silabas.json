@@ -1,0 +1,165 @@
+{
+ "prefixo": "s3_",
+ "voz": "pt-BR-AntonioNeural",
+ "palavras": {
+  "abacaxi": [
+   "A",
+   "BA",
+   "CA",
+   "XI"
+  ],
+  "baú": [
+   "BA",
+   "Ú"
+  ],
+  "bicicleta": [
+   "BI",
+   "CI",
+   "CLE",
+   "TA"
+  ],
+  "bola": [
+   "BO",
+   "LA"
+  ],
+  "boné": [
+   "BO",
+   "NÉ"
+  ],
+  "borboleta": [
+   "BOR",
+   "BO",
+   "LE",
+   "TA"
+  ],
+  "cachorro": [
+   "CA",
+   "CHOR",
+   "RO"
+  ],
+  "cadeado": [
+   "CA",
+   "DE",
+   "A",
+   "DO"
+  ],
+  "caderno": [
+   "CA",
+   "DER",
+   "NO"
+  ],
+  "caixa": [
+   "CAI",
+   "XA"
+  ],
+  "cenoura": [
+   "CE",
+   "NOU",
+   "RA"
+  ],
+  "chuva": [
+   "CHU",
+   "VA"
+  ],
+  "computador": [
+   "COM",
+   "PU",
+   "TA",
+   "DOR"
+  ],
+  "céu": [
+   "CÉU"
+  ],
+  "elefante": [
+   "E",
+   "LE",
+   "FAN",
+   "TE"
+  ],
+  "escola": [
+   "ES",
+   "CO",
+   "LA"
+  ],
+  "flor": [
+   "FLOR"
+  ],
+  "gato": [
+   "GA",
+   "TO"
+  ],
+  "girafa": [
+   "GI",
+   "RA",
+   "FA"
+  ],
+  "jacaré": [
+   "JA",
+   "CA",
+   "RÉ"
+  ],
+  "janela": [
+   "JA",
+   "NE",
+   "LA"
+  ],
+  "mar": [
+   "MAR"
+  ],
+  "moeda": [
+   "MO",
+   "E",
+   "DA"
+  ],
+  "mãe": [
+   "MÃE"
+  ],
+  "panela": [
+   "PA",
+   "NE",
+   "LA"
+  ],
+  "peixe": [
+   "PEI",
+   "XE"
+  ],
+  "piada": [
+   "PI",
+   "A",
+   "DA"
+  ],
+  "professora": [
+   "PRO",
+   "FES",
+   "SO",
+   "RA"
+  ],
+  "pão": [
+   "PÃO"
+  ],
+  "pé": [
+   "PÉ"
+  ],
+  "saúde": [
+   "SA",
+   "Ú",
+   "DE"
+  ],
+  "sol": [
+   "SOL"
+  ],
+  "tatu": [
+   "TA",
+   "TU"
+  ],
+  "tomate": [
+   "TO",
+   "MA",
+   "TE"
+  ],
+  "urso": [
+   "UR",
+   "SO"
+  ]
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "ano": 3,
+ "componente": "Língua Portuguesa",
+ "rede": "Currículo da Educação Básica do Sistema Municipal de Ensino de Blumenau",
+ "documento": "_curriculo/blumenau.txt",
+ "conceitos": [
+  "sílaba",
+  "divisão silábica",
+  "monossílabas",
+  "dissílabas",
+  "trissílabas",
+  "polissílabas",
+  "palavras"
+ ],
+ "fora_do_curriculo": [
+  {
+   "termo": "hiato",
+   "motivo": "A palavra HIATO não é dita à criança em folha nenhuma: o que as folhas 28 e 32 fazem é mostrar que em SA-Ú-DE e MO-E-DA as duas vogais ficam em pedaços diferentes. É o erro que ela comete ao contar, e contar é a habilidade do ano. O NOME do fenômeno pertence a anos seguintes e não aparece."
+  },
+  {
+   "termo": "ditongo",
+   "motivo": "Mesma razão da anterior: a folha 27 mostra que em CAI-XA e PEI-XE as duas vogais andam juntas, sem nomear o fenômeno. O que se mede é o número de sílabas."
+  }
+ ],
+ "degrau": 3,
+ "evidencia": [
+  "Jogado do começo ao fim no navegador, item por item, antes de publicar.",
+  "Um jogador automático resolve cada item pela resposta declarada e confere se a folha fecha.",
+  "Leiaute medido em 6 tamanhos de tela: nenhuma figura cortada e nenhum alvo de toque menor que 40 px.",
+  "Toda tela é narrada com voz real, e cada opção de resposta tem o seu alto-falante.",
+  "As 35 folhas nasceram do crivo de 20 folhas de papel reais, em `_sequencias/POTE-SIL3-NUMERO.md`.",
+  "As 17 figuras foram recortadas das próprias folhas de papel, e o portão 1i7 confere cada caixa contra a folha de origem.",
+  "As habilidades citadas no dossiê são conferidas, palavra por palavra, contra o currículo da rede."
+ ],
+ "observacoes": [
+  "O DEGRAU EM CIMA DO 2º ANO: o caderno do 2º ano (`_sil2`) já classifica a palavra pelo número de sílabas. O que este acrescenta, e que o currículo do 3º ano pede, é (a) classificar SEM VER a palavra escrita — o ditado das folhas 17 e 18; (b) achar e classificar a palavra DENTRO DE UM TEXTO — folhas 20 a 24; e (c) não se enganar quando a letra engana a contagem — folhas 27, 28 e 32.",
+  "DOIS BLOCOS ENTRAM DECLARADOS, porque nenhuma das vinte folhas colhidas os cobre e são exatamente o erro que a criança comete: as folhas 27 e 28, das palavras em que o número de LETRAS não corresponde ao de sílabas.",
+  "O CONCEITO VEM NA FOLHA 7, nunca na primeira: a criança conta sílabas com a boca e com o dedo por seis folhas antes de receber as palavras monossílaba, dissílaba, trissílaba e polissílaba.",
+  "O ARMÁRIO DE GAVETAS veio da folha d07, que desenha exatamente caixas rotuladas com as quatro classificações; não é metáfora minha."
+ ],
+ "objetivos": [
+  {
+   "objetivo": "Contar as sílabas de uma palavra",
+   "folhas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    19
+   ],
+   "pratica": "Análise linguística/semiótica (ortografização)",
+   "objeto": "Segmentação de palavras/classificação de palavras por número de sílabas",
+   "habilidade": "HABILIDADE: \"Identificar o número de sílabas de palavras, classificando-as em monossílabas, dissílabas, trissílabas e polissílabas.\""
+  },
+  {
+   "objetivo": "Saber os quatro nomes: monossílaba, dissílaba, trissílaba e polissílaba",
+   "folhas": [
+    7,
+    8,
+    35
+   ],
+   "pratica": "Análise linguística/semiótica (ortografização)",
+   "objeto": "Segmentação de palavras/classificação de palavras por número de sílabas",
+   "habilidade": "HABILIDADE: \"Identificar o número de sílabas de palavras, classificando-as em monossílabas, dissílabas, trissílabas e polissílabas.\""
+  },
+  {
+   "objetivo": "Classificar a palavra pelo número de sílabas",
+   "folhas": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    22,
+    25,
+    26,
+    33,
+    34
+   ],
+   "pratica": "Análise linguística/semiótica (ortografização)",
+   "objeto": "Segmentação de palavras/classificação de palavras por número de sílabas",
+   "habilidade": "HABILIDADE: \"Identificar o número de sílabas de palavras, classificando-as em monossílabas, dissílabas, trissílabas e polissílabas.\""
+  },
+  {
+   "objetivo": "Montar, achar e escrever a palavra pelos pedaços dela",
+   "folhas": [
+    15,
+    16,
+    29,
+    30,
+    31,
+    32
+   ],
+   "pratica": "Análise linguística/semiótica (ortografização)",
+   "objeto": "Segmentação de palavras/classificação de palavras por número de sílabas",
+   "habilidade": "HABILIDADE: \"Identificar o número de sílabas de palavras, classificando-as em monossílabas, dissílabas, trissílabas e polissílabas.\""
+  },
+  {
+   "objetivo": "Classificar ouvindo, sem ver a palavra escrita",
+   "folhas": [
+    17,
+    18
+   ],
+   "pratica": "Análise linguística/semiótica (ortografização)",
+   "objeto": "Segmentação de palavras/classificação de palavras por número de sílabas",
+   "habilidade": "HABILIDADE: \"Identificar o número de sílabas de palavras, classificando-as em monossílabas, dissílabas, trissílabas e polissílabas.\""
+  },
+  {
+   "objetivo": "Achar e classificar a palavra dentro de um texto",
+   "folhas": [
+    20,
+    21,
+    23,
+    24
+   ],
+   "pratica": "Análise linguística/semiótica (ortografização)",
+   "objeto": "Segmentação de palavras/classificação de palavras por número de sílabas",
+   "habilidade": "HABILIDADE: \"Identificar o número de sílabas de palavras, classificando-as em monossílabas, dissílabas, trissílabas e polissílabas.\""
+  },
+  {
+   "objetivo": "Não se enganar com o til, o ditongo e o hiato",
+   "folhas": [
+    27,
+    28
+   ],
+   "pratica": "Análise linguística/semiótica (ortografização)",
+   "objeto": "Segmentação de palavras/classificação de palavras por número de sílabas",
+   "habilidade": "HABILIDADE: \"Identificar o número de sílabas de palavras, classificando-as em monossílabas, dissílabas, trissílabas e polissílabas.\""
+  }
+ ]
+}

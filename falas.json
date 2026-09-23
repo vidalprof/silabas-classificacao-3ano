@@ -1,0 +1,1647 @@
+[
+ {
+  "id": "s3_dd5ndv",
+  "texto": "Toque primeiro na casa onde a palavra começa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_f0cmai",
+  "texto": "Aprendendo a classificar as palavras pelo número de sílabas. Trinta e cinco folhas para descobrir se uma palavra é monossílaba, dissílaba, trissílaba ou polissílaba. Escreva o seu nome ali embaixo e toque em Começar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_365x",
+  "texto": "Monossílaba: palavra de uma sílaba só. Por exemplo, PÃO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_7bys9f",
+  "texto": "Dissílaba: palavra de duas sílabas. Por exemplo, GATO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1cgrk8w",
+  "texto": "Trissílaba: palavra de três sílabas. Por exemplo, CADERNO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_exz0kr",
+  "texto": "Polissílaba: palavra de quatro sílabas ou mais. Por exemplo, ABACAXI.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_991wm3",
+  "texto": "Isso! MAR é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_o92shr",
+  "texto": "Isso! TATU é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1ss6cg8",
+  "texto": "Isso! CENOURA é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1j90ik5",
+  "texto": "Isso! CADEADO é polissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1omp5ti",
+  "texto": "Isso! GATO é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1r47l5l",
+  "texto": "Isso! CADERNO é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_chb66l",
+  "texto": "Isso! ABACAXI é polissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1gx8qah",
+  "texto": "Isso! PÃO é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_5jq1u8",
+  "texto": "Isso! URSO é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_imp8uz",
+  "texto": "Isso! JACARÉ é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_191v642",
+  "texto": "Isso! BORBOLETA é polissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_e7sxoc",
+  "texto": "Isso! PÉ é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_nswvbl",
+  "texto": "Isso! GIZ é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1ct2as",
+  "texto": "Isso! MOCHILA é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_l1hy2g",
+  "texto": "Isso! CLIPE é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_fjt9ik",
+  "texto": "Isso! BIBLIOTECA é polissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_vz4ndx",
+  "texto": "Isso! LIVRO é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_8m7w72",
+  "texto": "Isso! ESCOLA é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_qjwqc4",
+  "texto": "Isso! COMPUTADOR é polissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_mektnw",
+  "texto": "Isso! LÁPIS é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_wcgen8",
+  "texto": "Isso! JANELA é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1mf07my",
+  "texto": "Isso! COLA é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_14gxez2",
+  "texto": "Isso! PROFESSORA é polissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_vlvemi",
+  "texto": "Isso! FLORES é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1l4sv35",
+  "texto": "Isso! FLOREIRA é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1lsmiyy",
+  "texto": "Isso! FLORICULTURA é polissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_nj06wr",
+  "texto": "Isso! PANO é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_m45xxa",
+  "texto": "Isso! PANELA é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1ukg02s",
+  "texto": "Isso! PANELINHA é polissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1vh8h1x",
+  "texto": "Isso! SOL é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_6fswca",
+  "texto": "Isso! SOLA é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_v01w8n",
+  "texto": "Isso! SOLDADO é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1m4rk1k",
+  "texto": "Isso! SOLIDÃO é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1c546z6",
+  "texto": "Isso! FLOR é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1b4ffne",
+  "texto": "Isso! TRÊS é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1jdufv1",
+  "texto": "Isso! CHAPÉU é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_13kqy8j",
+  "texto": "Isso! GIRAFA é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_jctq01",
+  "texto": "Isso! BONÉ é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_ntnzwg",
+  "texto": "Isso! CACHORRO é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1hqmegi",
+  "texto": "Muito bem! GATO, com duas pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_r9ld9h",
+  "texto": "Muito bem! BONÉ, com duas pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_au0k5u",
+  "texto": "Muito bem! CENOURA, com três pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_39o7tt",
+  "texto": "Muito bem! JACARÉ, com três pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_eflqzt",
+  "texto": "Muito bem! GIRAFA, com três pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_4az9ap",
+  "texto": "Muito bem! ABACAXI, com quatro pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_kwesmm",
+  "texto": "Muito bem! BORBOLETA, com quatro pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1xn5fvt",
+  "texto": "Muito bem! CADEADO, com quatro pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_15259p0",
+  "texto": "Muito bem! ELEFANTE, com quatro pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_17hjrmm",
+  "texto": "Muito bem! BICICLETA, com quatro pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_wii204",
+  "texto": "Isso! MÃO é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1ql564x",
+  "texto": "Isso! SAPATO é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1vkaubf",
+  "texto": "Isso! CASA é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_13xrzgo",
+  "texto": "Isso! ELEFANTE é polissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_yfspjj",
+  "texto": "Isso! TOMATE é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_kfcoiq",
+  "texto": "Isso! CHUVA é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_wb0rlu",
+  "texto": "Isso! BICICLETA é polissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_188gbu3",
+  "texto": "Isso! TREM é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1c6dswb",
+  "texto": "Isso! MACARRÃO é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_w9wulf",
+  "texto": "Isso! MAR tem uma sílaba: MAR.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_h18mme",
+  "texto": "Isso! BOLA tem duas sílabas: BO, LA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_16yp2s6",
+  "texto": "Isso! PANELA tem três sílabas: PA, NE, LA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1rkoh49",
+  "texto": "Isso! BICICLETA tem quatro sílabas: BI, CI, CLE, TA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_thcw2r",
+  "texto": "Isso! FLOR tem uma sílaba: FLOR.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_zvnsxi",
+  "texto": "Isso! TOMATE tem três sílabas: TO, MA, TE.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_x81a03",
+  "texto": "Isso! PÃO tem uma sílaba: PÃO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1l1zmoz",
+  "texto": "Isso! PÉ tem uma sílaba: PÉ.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_k8b2ue",
+  "texto": "Isso! GATO tem duas sílabas: GA, TO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1svp8o6",
+  "texto": "Isso! URSO tem duas sílabas: UR, SO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1sltssm",
+  "texto": "Isso! TATU tem duas sílabas: TA, TU.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_wnaoue",
+  "texto": "Isso! BONÉ tem duas sílabas: BO, NÉ.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_2os7ff",
+  "texto": "Isso! CIRANDA é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_afgc5d",
+  "texto": "Isso! CIRANDINHA é polissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_3kv9yg",
+  "texto": "Isso! TODOS é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_vcqga1",
+  "texto": "Isso! CIRANDAR é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_7w0xsd",
+  "texto": "Isso! VAMOS é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_19aomia",
+  "texto": "Isso! DAR é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_s5wfaj",
+  "texto": "Isso! MEIA é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_xb2jzf",
+  "texto": "Isso! VOLTA é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_2ocark",
+  "texto": "Isso! E é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_a00ney",
+  "texto": "Boa! A borboleta avançou um passo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1fvjsnf",
+  "texto": "Isso! Tatu, saiu e toca têm duas sílabas cada uma.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_4tpp5q",
+  "texto": "Muito bem! Biblioteca, professora e borboleta são as compridas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_34o5bj",
+  "texto": "Isso! PÃOZINHO é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1fpgar2",
+  "texto": "Isso! MÃE é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_8v3cs9",
+  "texto": "Isso! CAIXA é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_2x98qy",
+  "texto": "Isso! PEIXE é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1oo5dq2",
+  "texto": "Isso! CÉU é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1pazdi8",
+  "texto": "Isso! SAÚDE é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1ocv04r",
+  "texto": "Isso! MOEDA é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1lumtua",
+  "texto": "Isso! BAÚ é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_17eku7o",
+  "texto": "Isso! PIADA é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_m1td77",
+  "texto": "Achou! BORBOLETA, toda numa linha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_pjfyks",
+  "texto": "Achou! ABACAXI, toda numa linha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_yga6i1",
+  "texto": "Achou! ELEFANTE, toda numa linha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_11c16qr",
+  "texto": "Achou! BICICLETA, toda numa linha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1w7bt2s",
+  "texto": "Achou! CADEADO, toda numa linha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_6nq8mu",
+  "texto": "Isso! CADERNO tem três sílabas: CA, DER, NO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1o3rk52",
+  "texto": "Isso! JACARÉ tem três sílabas: JA, CA, RÉ.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_jysfjq",
+  "texto": "Isso! CENOURA tem três sílabas: CE, NOU, RA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_ygoh0p",
+  "texto": "Isso! ABACAXI tem quatro sílabas: A, BA, CA, XI.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1v2tdex",
+  "texto": "Isso! BORBOLETA tem quatro sílabas: BOR, BO, LE, TA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1h1a7o6",
+  "texto": "Isso! CACHORRO tem três sílabas: CA, CHOR, RO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_105lt75",
+  "texto": "Isso! GATO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_10f9ayf",
+  "texto": "Isso! URSO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1oahb9p",
+  "texto": "Isso! CENOURA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1b2jj5o",
+  "texto": "Isso! CADERNO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_h70519",
+  "texto": "Isso! ABACAXI.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_quvonl",
+  "texto": "Muito bem escrito!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_dacrkf",
+  "texto": "Essa vale! Você escolheu e acertou o tamanho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1wkti3p",
+  "texto": "Isso! PÃO tem uma sílaba só.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1iuyvvx",
+  "texto": "Isso! GATO tem duas sílabas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_otek9o",
+  "texto": "Isso! CADERNO tem três sílabas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1tjwyle",
+  "texto": "Isso! ABACAXI tem quatro sílabas ou mais.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_effyw3",
+  "texto": "Isso! SOL tem uma sílaba: SOL.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_l4nubq",
+  "texto": "Isso! CHUVA tem duas sílabas: CHU, VA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_ef5ady",
+  "texto": "Isso! ESCOLA tem três sílabas: ES, CO, LA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_3x60ba",
+  "texto": "Isso! JANELA tem três sílabas: JA, NE, LA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1h3xj61",
+  "texto": "Isso! COMPUTADOR tem quatro sílabas: COM, PU, TA, DOR.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_jb7vk9",
+  "texto": "Isso! PROFESSORA tem quatro sílabas: PRO, FES, SO, RA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_vswvxv",
+  "texto": "Muito bem! GATO se parte em duas pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1k96mdx",
+  "texto": "Muito bem! URSO se parte em duas pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_ngp2ro",
+  "texto": "Muito bem! BONÉ se parte em duas pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_mt6sv2",
+  "texto": "Muito bem! CASA se parte em duas pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1ogkvfa",
+  "texto": "Muito bem! PORTA se parte em duas pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1vs9dnr",
+  "texto": "Muito bem! CHUVA se parte em duas pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1bnnya",
+  "texto": "Muito bem! CADERNO se parte em três pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1qzfy4g",
+  "texto": "Muito bem! JACARÉ se parte em três pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_e2ygk3",
+  "texto": "Muito bem! CENOURA se parte em três pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_f2hdzk",
+  "texto": "Muito bem! ABACAXI se parte em quatro pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_ewe6rz",
+  "texto": "Muito bem! BORBOLETA se parte em quatro pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_kv5stk",
+  "texto": "Muito bem! CADEADO se parte em quatro pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1fvsouy",
+  "texto": "Muito bem! TATU se parte em duas pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_59xyh4",
+  "texto": "Muito bem! GIRAFA se parte em três pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1427zbv",
+  "texto": "Muito bem! CACHORRO se parte em três pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_ffknkj",
+  "texto": "Isso! PÃO tem uma sílaba, então é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_5s72f6",
+  "texto": "Isso! BONÉ tem duas sílabas, então é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1u1mt5w",
+  "texto": "Isso! JACARÉ tem três sílabas, então é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_r8dje5",
+  "texto": "Isso! ABACAXI tem quatro sílabas ou mais, então é polissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_qfidy7",
+  "texto": "Isso! SOL tem uma sílaba, então é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_yk1x1x",
+  "texto": "Isso! GATO tem duas sílabas, então é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1o71kon",
+  "texto": "Isso! CENOURA tem três sílabas, então é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_bnhaky",
+  "texto": "Isso! BORBOLETA tem quatro sílabas ou mais, então é polissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1toi5e8",
+  "texto": "Bicho de 2 sílabas que mia.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_tq1gi",
+  "texto": "Bicho de 2 sílabas que dorme no inverno.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_8in03i",
+  "texto": "Legume de 3 sílabas, laranja.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_frepf2",
+  "texto": "Objeto de 3 sílabas onde a gente escreve.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1ypg96c",
+  "texto": "Fruta de 4 sílabas, com coroa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_xpuivy",
+  "texto": "Escreva uma palavra de 1 sílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_vprepa",
+  "texto": "Escreva uma palavra de 2 sílabas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_y5v6j3",
+  "texto": "Escreva uma palavra de 3 sílabas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_3rxfo",
+  "texto": "Escreva uma palavra de 4 sílabas ou mais.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_pnq75b",
+  "texto": "Diga a palavra batendo palma e conte as palmas. O número das palmas é o da gaveta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_9au7xl",
+  "texto": "Comece pelo pedaço com que a palavra COMEÇA. Ouça-a de novo e repare no primeiro som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_eus4qp",
+  "texto": "Toque no alto-falante de novo e repita a palavra junto, batendo palma.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_y71kvc",
+  "texto": "Diga a palavra devagar e bata palma. Cada vez que a boca abre é uma bolinha — nem mais, nem menos.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_clflej",
+  "texto": "Essa canetinha não é a dessa palavra. Conte as sílabas dela e veja de que cor é a gaveta do número que deu.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1pxbqjq",
+  "texto": "Bata palma em cada palavra do passo. Só uma delas tem três palmas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_15gk2le",
+  "texto": "Confira uma por uma, batendo palma. Deixe marcada só a que der duas palmas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1iumz3t",
+  "texto": "Bata palma em cada palavra do quadro. Marque só as que passarem de três palmas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1up07a7",
+  "texto": "Não conte as letras: conte as vezes que a boca abre. Diga a palavra bem devagar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1i78zcb",
+  "texto": "Procure a casa com o primeiro pedaço da palavra e siga a linha até o último.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_ddab83",
+  "texto": "Leia a pista de novo: ela diz quantas sílabas a palavra tem, e isso já elimina quase todas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1m7y7r5",
+  "texto": "Diga o nome da figura em voz alta e escreva um pedaço de cada vez.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_ry8ztk",
+  "texto": "Bata palma na palavra que você escreveu e conte. Se o número não bater, escolha outra do banco ali embaixo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1p8kuo3",
+  "texto": "Leia a linha outra vez: ela diz quantas sílabas o exemplo precisa ter.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1c66kqm",
+  "texto": "Diga a palavra devagar. O corte fica onde a sua voz faz uma pausa e recomeça.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1d06ccm",
+  "texto": "Conte as sílabas da palavra primeiro. Só depois procure o nome que combina com esse número.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_yivq6i",
+  "texto": "MÃO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_181h06r",
+  "texto": "SAPATO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_2x8g63",
+  "texto": "CASA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_19xmqdb",
+  "texto": "ELEFANTE.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_375vzm",
+  "texto": "PÉ.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_xxr6ct",
+  "texto": "TOMATE.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_2u06e4",
+  "texto": "FLOR.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1637by4",
+  "texto": "PANELA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_plxlb6",
+  "texto": "CHUVA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_w5emvp",
+  "texto": "BICICLETA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_30iu91",
+  "texto": "TREM.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_3qv2jt",
+  "texto": "MACARRÃO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_yja3cn",
+  "texto": "PÃO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_cr45ei",
+  "texto": "ABACAXI.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_yjchmj",
+  "texto": "SOL.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_gizd5x",
+  "texto": "BORBOLETA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1l6nluq",
+  "texto": "CADEADO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_30fz5g",
+  "texto": "TRÊS.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_yiylh1",
+  "texto": "MAR.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_30wxzz",
+  "texto": "TATU.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1czoh9m",
+  "texto": "CENOURA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_2uezfa",
+  "texto": "GATO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1l6w9az",
+  "texto": "CADERNO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_3171rk",
+  "texto": "URSO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1vpj709",
+  "texto": "JACARÉ.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_yix533",
+  "texto": "GIZ.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1cnlcg6",
+  "texto": "MOCHILA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_pipb20",
+  "texto": "CLIPE.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1jja2qj",
+  "texto": "BIBLIOTECA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_nhtr51",
+  "texto": "LIVRO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_2tz8cc",
+  "texto": "ESCOLA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_yjckbn",
+  "texto": "COMPUTADOR.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_l4w818",
+  "texto": "LÁPIS.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1vcg752",
+  "texto": "JANELA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_2xcmh6",
+  "texto": "COLA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_f5nird",
+  "texto": "PROFESSORA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_vbhb1m",
+  "texto": "FLORES.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_bgyrer",
+  "texto": "FLOREIRA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_ct3bjx",
+  "texto": "FLORICULTURA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_33r463",
+  "texto": "PANO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_k47k8j",
+  "texto": "PANELINHA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_38nbh6",
+  "texto": "SOLA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_nysph1",
+  "texto": "SOLDADO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_o2fh96",
+  "texto": "SOLIDÃO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1rjpvcd",
+  "texto": "CHAPÉU.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1cqusj5",
+  "texto": "GIRAFA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_2wk85d",
+  "texto": "BONÉ.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_m2fqma",
+  "texto": "CACHORRO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_616miq",
+  "texto": "Escreva o nome deste bicho e veja: 2 sílabas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_w8f067",
+  "texto": "Escreva o nome desta peça de roupa: 2 sílabas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_vc8j5q",
+  "texto": "Escreva o nome deste bicho: 3 sílabas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_s69mtb",
+  "texto": "Escreva a palavra usando o teclado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1uchlua",
+  "texto": "Você chegou ao fim! Agora você sabe pôr qualquer palavra na gaveta dela. E fica a pergunta: o nome da sua rua, quantas sílabas tem?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1vnhmjw",
+  "texto": "Acertou! GATO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_pj4r68",
+  "texto": "Acertou! CENOURA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_671t0f",
+  "texto": "Acertou! BORBOLETA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_nv4dn7",
+  "texto": "Essa letra não está aqui. Comece pelas vogais: toda sílaba tem pelo menos uma.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1d9s73k",
+  "texto": "Folha pronta! Muito bem.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_19rkrqc",
+  "texto": "A mira fechou. A palavra era GATO: guarde-a.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_dy293s",
+  "texto": "A mira fechou. A palavra era CENOURA: guarde-a.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1sijh07",
+  "texto": "A mira fechou. A palavra era BORBOLETA: guarde-a.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1hhajgf",
+  "texto": "Bicho de DUAS sílabas que mia no telhado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_6kdm8g",
+  "texto": "Legume de TRÊS sílabas que o coelho adora.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_rf69sh",
+  "texto": "Bicho de QUATRO sílabas que era lagarta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1nyeku8",
+  "texto": "Monossílaba: palavra de uma sílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_q9x02v",
+  "texto": "Dissílaba: palavra de duas sílabas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_kjkqs9",
+  "texto": "Trissílaba: palavra de três sílabas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_19eqjoz",
+  "texto": "Polissílaba: palavra de quatro sílabas ou mais.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1v1kbho",
+  "texto": "Canetinha das palavras de uma sílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1xu2s9x",
+  "texto": "Canetinha das palavras de duas sílabas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1nwla6x",
+  "texto": "Canetinha das palavras de três sílabas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_19e2pqe",
+  "texto": "Canetinha das palavras de quatro sílabas ou mais.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1akaq0b",
+  "texto": "MONOSSÍLABA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_p9rww5",
+  "texto": "DISSÍLABA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1d424sn",
+  "texto": "TRISSÍLABA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1lnxh02",
+  "texto": "POLISSÍLABA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1oaaion",
+  "texto": "Toque numa palavra do lado esquerdo e depois na do lado direito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_bhnba3",
+  "texto": "Guarde onde cada carta estava: elas voltam para baixo no mesmo lugar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1eokikw",
+  "texto": "Tabuleiro limpo! Você lembrou de todas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_vyndvg",
+  "texto": "Par! PÃO é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_zpw0qb",
+  "texto": "Par! GATO é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_ndanmk",
+  "texto": "Par! CADERNO é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_17qljoo",
+  "texto": "Par! ABACAXI é polissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1xoik9",
+  "texto": "Par! PÉ é monossílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_8wpxru",
+  "texto": "Par! TATU é dissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1kuz3b2",
+  "texto": "Par! JACARÉ é trissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_t3mh1z",
+  "texto": "Par! BORBOLETA é polissílaba.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_jw0dce",
+  "texto": "Folha dez. Agora as quatro gavetas abertas. Conte as sílabas da palavra e guarde-a no lugar dela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_19fi57v",
+  "texto": "Folha onze. Quatro gavetas outra vez, e agora com as palavras da escola, as que você vê todo dia.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_nfrfr2",
+  "texto": "Folha doze. Agora as palavras se parecem. Pano, panela e panelinha começam igual: só contar as sílabas separa uma da outra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1nffzl",
+  "texto": "Folha treze. Agora a peça é a figura, sem a palavra escrita. Diga o nome do desenho, conte as sílabas e guarde na gaveta dela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1gar29e",
+  "texto": "Folha catorze. As mesmas gavetas e agora doze figuras, inclusive as compridas. Toque na figura para ouvir o nome dela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1l61qvq",
+  "texto": "Folha quinze. As sílabas se embaralharam. Toque nelas na ordem para a palavra voltar. Cada pedaço fala quando você toca nele.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1g5f5f",
+  "texto": "Folha dezesseis. Agora são palavras de quatro pedaços. Diga a palavra baixinho antes de começar: ajuda a achar o primeiro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_pzmuqk",
+  "texto": "Folha dezessete. Um ditado: ouça a palavra e guarde-a na gaveta certa. Depois que você escolher, a palavra aparece para conferir.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_omtqfc",
+  "texto": "Folha dezoito. Mesmo ditado, e agora a palavra não aparece nunca. Só o som. Conte as aberturas da boca enquanto ouve.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_188w0w8",
+  "texto": "Folha dezenove. Uma parada para respirar: o gesto da primeira folha, com palavras novas. Bata palma e pinte uma bolinha por palma.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_f5nhtd",
+  "texto": "Folha um. Diga a palavra em voz alta e bata palma cada vez que a boca abrir. Depois pinte uma bolinha por palma e toque em Pronto.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1s0z19j",
+  "texto": "Folha vinte. Uma cantiga de roda. Pegue a canetinha da cor certa e pinte quatro palavras dela, pela legenda.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1c2mp24",
+  "texto": "Folha vinte e um. A mesma cantiga, e agora todas as palavras destacadas, as nove. A legenda é a mesma.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1kt5kww",
+  "texto": "Folha vinte e dois. Leve a borboleta até a flor. Em cada passo, toque só na palavra de três sílabas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_370079",
+  "texto": "Folha vinte e três. Leia o texto. Entre as palavras do quadro abaixo, marque as de duas sílabas, quantas quiser, e só depois toque em Conferir.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_q836ah",
+  "texto": "Folha vinte e quatro. Agora um texto maior. Entre as palavras do quadro, marque as de quatro sílabas ou mais e confira.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_gznqtv",
+  "texto": "Folha vinte e cinco. Olhe a figura, diga o nome dela e escolha a gaveta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_fd1qu2",
+  "texto": "Folha vinte e seis. Agora ninguém arrasta nada: só a palavra escrita e os quatro nomes. E ela cresce diante de você: pão, pãozinho. Conte outra vez.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_12gay4b",
+  "texto": "Folha vinte e sete. Cuidado com estas. Elas têm muitas letras e a boca abre poucas vezes. Escolha, e depois veja por quê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1s2ts82",
+  "texto": "Folha vinte e oito. E agora o contrário. Estas parecem curtas e têm mais pedaços do que se pensa. Diga-as devagar antes de escolher.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_ijvyza",
+  "texto": "Folha vinte e nove. Aqui cada casa é uma sílaba, não uma letra. Ache as palavras compridas: toque na primeira casa e depois na última.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1vak3f8",
+  "texto": "Folha dois. O mesmo gesto, e agora as palavras são compridas. Bata palma devagar: cada palma é uma bolinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_griv93",
+  "texto": "Folha trinta. Uma cruzadinha em que a pista diz quantas sílabas a palavra tem. Toque numa pista e escreva.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_4i4utm",
+  "texto": "Folha trinta e um. Agora sem pista escrita: só a figura. Escreva o nome dela, letra por letra. No computador dá para usar o teclado de verdade.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_13aa3tf",
+  "texto": "Folha trinta e dois. O desafio: escreva você uma palavra de cada tamanho. Se faltar ideia, o banco de palavras está embaixo de cada linha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_ylih3x",
+  "texto": "Folha trinta e três. Vire duas cartas e ache a figura e o nome da gaveta dela. As figuras são as mesmas das folhas de papel.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_6frm2o",
+  "texto": "Folha trinta e quatro. Leia a pista, que diz quantas sílabas a palavra tem, e adivinhe-a letra por letra. A cada erro a mira fecha um pouco.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_4ivktj",
+  "texto": "Folha trinta e cinco. Este cartaz é seu: monte-o e leve na cabeça. Em cada linha, escolha o exemplo que cabe naquele nome.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_g01zqj",
+  "texto": "Folha três. Agora sem figura nenhuma, só a palavra escrita. Diga a palavra baixinho, bata palma e pinte as bolinhas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1p3nah1",
+  "texto": "Folha quatro. Toque na fresta onde a palavra se parte. Uma tesoura aparece ali. Estas se partem uma vez só.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1i28ksu",
+  "texto": "Folha cinco. Mesmo gesto, e agora a palavra se parte mais de uma vez. Corte em todas as frestas até a palavra ficar toda em pedaços.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_15hh7l9",
+  "texto": "Folha seis. Agora repare no número. Cada palavra abaixo diz quantas letras tem. Corte em sílabas e veja: são sempre menos.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1jj8win",
+  "texto": "Folha sete. Cada número de sílabas tem um nome. O cartaz está aí embaixo: use-o. Toque na palavra e depois no nome dela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1pmtw6h",
+  "texto": "Folha oito. Agora sem o cartaz. Conte as sílabas de cabeça e ligue cada palavra ao nome dela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_7ohivt",
+  "texto": "Folha nove. Duas gavetas, bem diferentes uma da outra: de uma sílaba e de quatro ou mais. Arraste cada palavra, ou toque nela e depois na gaveta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_yiz9w2",
+  "texto": "BAÚ.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_2wk6a3",
+  "texto": "BOLA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_pffbg9",
+  "texto": "CAIXA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1lyiit0",
+  "texto": "CARTAZ.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1lz5ycs",
+  "texto": "CASULO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_yix8ic",
+  "texto": "CÉU.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_o0l2jd",
+  "texto": "CIRANDA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_b72r4b",
+  "texto": "CIRANDAR.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1axpzli",
+  "texto": "CIRANDINHA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_1pgyqrr",
+  "texto": "CONTOU.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_yirr4s",
+  "texto": "DAR.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_3hm9a",
+  "texto": "E.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_yivqf4",
+  "texto": "MÃE.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_2vw8zu",
+  "texto": "MALA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_2vz9e3",
+  "texto": "MEIA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_o8svhl",
+  "texto": "MOEDA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_rgcuxd",
+  "texto": "NASCE.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_45dojx",
+  "texto": "PÃOZINHO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_vc0jii",
+  "texto": "PEIXE.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_vkbv4m",
+  "texto": "PIADA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_vfqs1f",
+  "texto": "PORTA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_38iwcl",
+  "texto": "SAIU.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_zp5req",
+  "texto": "SAÚDE.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_31515e",
+  "texto": "TOCA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_t0e560",
+  "texto": "TODOS.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_wmmej1",
+  "texto": "VAMOS.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_yj8rtt",
+  "texto": "VIU.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_wqg9nv",
+  "texto": "VOLTA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_by2zvd",
+  "texto": "Antes de pintar, pegue uma canetinha ali em cima.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_ci30ed",
+  "texto": "O TATU SAIU DA TOCA. ELE VIU UMA BORBOLETA NA FLOR.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_18e6j4e",
+  "texto": "NA BIBLIOTECA DA ESCOLA HÁ UM CARTAZ GRANDE. A PROFESSORA CONTOU QUE A BORBOLETA NASCE DENTRO DE UM CASULO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_n8rfh9",
+  "texto": "Primeiro toque numa figura ali embaixo. Depois toque na gaveta dela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_qqiw6i",
+  "texto": "Primeiro toque numa palavra ali embaixo. Depois toque na gaveta dela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "s3_swkns7",
+  "texto": "Narração ligada!",
+  "voz": "pt-BR-AntonioNeural"
+ }
+]

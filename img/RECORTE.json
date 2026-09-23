@@ -1,0 +1,223 @@
+{
+ "s3_caderno.png": {
+  "folha": "_sequencias/colheita/ano3/d19b1_8800e4.png",
+  "caixa": [
+   171,
+   435,
+   357,
+   650
+  ],
+  "tamanho": [
+   186,
+   215
+  ]
+ },
+ "s3_abacaxi.png": {
+  "folha": "_sequencias/colheita/ano3/d19b1_8800e4.png",
+  "caixa": [
+   639,
+   428,
+   778,
+   651
+  ],
+  "tamanho": [
+   139,
+   223
+  ]
+ },
+ "s3_borboleta.png": {
+  "folha": "_sequencias/colheita/ano3/d19b1_8800e4.png",
+  "caixa": [
+   1029,
+   428,
+   1278,
+   642
+  ],
+  "tamanho": [
+   249,
+   214
+  ]
+ },
+ "s3_pao.png": {
+  "folha": "_sequencias/colheita/ano3/d19b1_8800e4.png",
+  "caixa": [
+   135,
+   827,
+   372,
+   987
+  ],
+  "tamanho": [
+   237,
+   160
+  ]
+ },
+ "s3_jacare.png": {
+  "folha": "_sequencias/colheita/ano3/d19b1_8800e4.png",
+  "caixa": [
+   582,
+   828,
+   893,
+   1013
+  ],
+  "tamanho": [
+   311,
+   185
+  ]
+ },
+ "s3_bone.png": {
+  "folha": "_sequencias/colheita/ano3/d19b1_8800e4.png",
+  "caixa": [
+   1020,
+   836,
+   1274,
+   1008
+  ],
+  "tamanho": [
+   254,
+   172
+  ]
+ },
+ "s3_chapeu.png": {
+  "folha": "_sequencias/colheita/ano3/d19b1_8800e4.png",
+  "caixa": [
+   153,
+   1190,
+   403,
+   1346
+  ],
+  "tamanho": [
+   250,
+   156
+  ]
+ },
+ "s3_tres.png": {
+  "folha": "_sequencias/colheita/ano3/d19b1_8800e4.png",
+  "caixa": [
+   615,
+   1183,
+   800,
+   1367
+  ],
+  "tamanho": [
+   185,
+   184
+  ]
+ },
+ "s3_cenoura.png": {
+  "folha": "_sequencias/colheita/ano3/d19b1_8800e4.png",
+  "caixa": [
+   1032,
+   1170,
+   1248,
+   1386
+  ],
+  "tamanho": [
+   216,
+   216
+  ]
+ },
+ "s3_pe.png": {
+  "folha": "_sequencias/colheita/ano3/d19b1_8800e4.png",
+  "caixa": [
+   165,
+   1550,
+   424,
+   1738
+  ],
+  "tamanho": [
+   259,
+   188
+  ]
+ },
+ "s3_cadeado.png": {
+  "folha": "_sequencias/colheita/ano3/d19b1_8800e4.png",
+  "caixa": [
+   636,
+   1507,
+   776,
+   1708
+  ],
+  "tamanho": [
+   140,
+   201
+  ]
+ },
+ "s3_cachorro.png": {
+  "folha": "_sequencias/colheita/ano3/d19b1_8800e4.png",
+  "caixa": [
+   1061,
+   1493,
+   1248,
+   1739
+  ],
+  "tamanho": [
+   187,
+   246
+  ]
+ },
+ "s3_tatu.png": {
+  "folha": "_sequencias/colheita/ano3/d11b1_158a27.jpg",
+  "caixa": [
+   51,
+   255,
+   192,
+   356
+  ],
+  "tamanho": [
+   141,
+   101
+  ]
+ },
+ "s3_girafa.png": {
+  "folha": "_sequencias/colheita/ano3/d11b1_158a27.jpg",
+  "caixa": [
+   64,
+   408,
+   178,
+   555
+  ],
+  "tamanho": [
+   114,
+   147
+  ]
+ },
+ "s3_tamandua.png": {
+  "folha": "_sequencias/colheita/ano3/d11b1_158a27.jpg",
+  "caixa": [
+   74,
+   608,
+   189,
+   678
+  ],
+  "tamanho": [
+   115,
+   70
+  ]
+ },
+ "s3_gato.png": {
+  "folha": "_sequencias/colheita/ano3/d11b1_158a27.jpg",
+  "caixa": [
+   91,
+   731,
+   188,
+   837
+  ],
+  "tamanho": [
+   97,
+   106
+  ]
+ },
+ "s3_urso.png": {
+  "folha": "_sequencias/colheita/ano3/d11b1_158a27.jpg",
+  "caixa": [
+   89,
+   891,
+   187,
+   1011
+  ],
+  "tamanho": [
+   98,
+   120
+  ]
+ }
+}
