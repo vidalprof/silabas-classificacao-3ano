@@ -1,0 +1,13 @@
+35 palavra(s) gravadas, 0 com falha (voz pt-BR-AntonioNeural, rate -25%)
+   abacaxi: BA apartada recusada (0.60s passa do teto 0.55s (soletrada)) — ficou a palavra
+   baú: BA apartada recusada (0.64s passa do teto 0.55s (soletrada)) — ficou a palavra
+   cachorro: CHOR apartada recusada (sem teto aferido para 4 letras) — ficou a palavra
+   cachorro: RO apartada recusada (0.66s passa do teto 0.55s (soletrada)) — ficou a palavra
+   cenoura: CE apartada recusada (0.61s passa do teto 0.55s (soletrada)) — ficou a palavra
+   chuva: VA apartada recusada (0.70s passa do teto 0.55s (soletrada)) — ficou a palavra
+   escola: ES apartada recusada (0.64s passa do teto 0.55s (soletrada)) — ficou a palavra
+   flor: FLOR apartada recusada (sem teto aferido para 4 letras) — ficou a palavra
+   janela: NE apartada recusada (0.61s passa do teto 0.55s (soletrada)) — ficou a palavra
+   gato: GA apartada recusada (0.72s passa do teto 0.55s (soletrada)) — ficou a palavra
+   panela: PA apartada recusada (2 nucleo(s) de vogal) — ficou a palavra
+   panela: NE apartada recusada (0.58s passa do teto 0.55s (soletrada)) — ficou a palavra

@@ -1,0 +1,1239 @@
+{
+ "voz": "pt-BR-AntonioNeural",
+ "rate": "-25%",
+ "metodo": "v5-citacao-virgula-ou-palavra",
+ "tetos_s": {
+  "1": 0.4,
+  "2": 0.55,
+  "3": 0.6
+ },
+ "alvo_lk": -18.0,
+ "teto_tp": -1.5,
+ "conferidas": [
+  {
+   "palavra": "abacaxi",
+   "caminho": "corrida",
+   "pedacos": 4,
+   "recortes": [
+    {
+     "ini": 0.208,
+     "dur": 0.32,
+     "ganho_db": -1.26,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "A",
+     "dur_s": 0.32,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.32,
+     "dur": 0.24,
+     "ganho_db": 0.76,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "BA",
+     "dur_s": 0.24,
+     "nucleos": 1,
+     "forma": "palavra"
+    },
+    {
+     "ini": 0.52,
+     "dur": 0.35,
+     "ganho_db": 1.0,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "CA",
+     "dur_s": 0.35,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.7,
+     "dur": 0.45,
+     "ganho_db": 7.11,
+     "preso_no_teto": false,
+     "i": 3,
+     "silaba": "XI",
+     "dur_s": 0.45,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "baú",
+   "caminho": "corrida",
+   "pedacos": 2,
+   "recortes": [
+    {
+     "ini": 0.213,
+     "dur": 0.367,
+     "ganho_db": -0.39,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "BA",
+     "dur_s": 0.36,
+     "nucleos": 1,
+     "forma": "palavra"
+    },
+    {
+     "ini": 0.54,
+     "dur": 0.28,
+     "ganho_db": 0.13,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "Ú",
+     "dur_s": 0.28,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "bicicleta",
+   "caminho": "corrida",
+   "pedacos": 4,
+   "recortes": [
+    {
+     "ini": 0.212,
+     "dur": 0.4,
+     "ganho_db": 4.23,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "BI",
+     "dur_s": 0.4,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.44,
+     "dur": 0.43,
+     "ganho_db": 5.29,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "CI",
+     "dur_s": 0.43,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.6,
+     "dur": 0.38,
+     "ganho_db": 2.46,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "CLE",
+     "dur_s": 0.38,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.96,
+     "dur": 0.28,
+     "ganho_db": 0.65,
+     "preso_no_teto": false,
+     "i": 3,
+     "silaba": "TA",
+     "dur_s": 0.28,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "bola",
+   "caminho": "corrida",
+   "pedacos": 2,
+   "recortes": [
+    {
+     "ini": 0.21,
+     "dur": 0.42,
+     "ganho_db": -0.85,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "BO",
+     "dur_s": 0.42,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.6,
+     "dur": 0.27,
+     "ganho_db": 2.98,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "LA",
+     "dur_s": 0.27,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "boné",
+   "caminho": "corrida",
+   "pedacos": 2,
+   "recortes": [
+    {
+     "ini": 0.206,
+     "dur": 0.4,
+     "ganho_db": -0.75,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "BO",
+     "dur_s": 0.4,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.46,
+     "dur": 0.37,
+     "ganho_db": 3.14,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "NÉ",
+     "dur_s": 0.37,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "borboleta",
+   "caminho": "corrida",
+   "pedacos": 4,
+   "recortes": [
+    {
+     "ini": 0.213,
+     "dur": 0.44,
+     "ganho_db": -1.44,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "BOR",
+     "dur_s": 0.44,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.52,
+     "dur": 0.4,
+     "ganho_db": -1.87,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "BO",
+     "dur_s": 0.4,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.72,
+     "dur": 0.38,
+     "ganho_db": 1.13,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "LE",
+     "dur_s": 0.38,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 1.02,
+     "dur": 0.3,
+     "ganho_db": -0.11,
+     "preso_no_teto": false,
+     "i": 3,
+     "silaba": "TA",
+     "dur_s": 0.3,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "cachorro",
+   "caminho": "corrida",
+   "pedacos": 3,
+   "recortes": [
+    {
+     "ini": 0.18,
+     "dur": 0.33,
+     "ganho_db": 0.15,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "CA",
+     "dur_s": 0.33,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.5,
+     "dur": 0.34,
+     "ganho_db": -0.46,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "CHOR",
+     "dur_s": 0.34,
+     "nucleos": 1,
+     "forma": "palavra"
+    },
+    {
+     "ini": 0.8,
+     "dur": 1.38,
+     "ganho_db": 11.76,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "RO",
+     "dur_s": 0.2,
+     "nucleos": 1,
+     "forma": "palavra"
+    }
+   ]
+  },
+  {
+   "palavra": "cadeado",
+   "caminho": "corrida",
+   "pedacos": 4,
+   "recortes": [
+    {
+     "ini": 0.2,
+     "dur": 0.34,
+     "ganho_db": -1.58,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "CA",
+     "dur_s": 0.34,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.48,
+     "dur": 0.43,
+     "ganho_db": 5.5,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "DE",
+     "dur_s": 0.43,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.74,
+     "dur": 0.37,
+     "ganho_db": 0.43,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "A",
+     "dur_s": 0.37,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.9,
+     "dur": 0.39,
+     "ganho_db": 2.64,
+     "preso_no_teto": false,
+     "i": 3,
+     "silaba": "DO",
+     "dur_s": 0.39,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "caderno",
+   "caminho": "corrida",
+   "pedacos": 3,
+   "recortes": [
+    {
+     "ini": 0.2,
+     "dur": 0.33,
+     "ganho_db": -1.24,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "CA",
+     "dur_s": 0.33,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.48,
+     "dur": 0.43,
+     "ganho_db": 0.34,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "DER",
+     "dur_s": 0.43,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.86,
+     "dur": 0.25,
+     "ganho_db": 8.21,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "NO",
+     "dur_s": 0.25,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "caixa",
+   "caminho": "corrida",
+   "pedacos": 2,
+   "recortes": [
+    {
+     "ini": 0.18,
+     "dur": 0.4,
+     "ganho_db": -0.39,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "CAI",
+     "dur_s": 0.4,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.58,
+     "dur": 0.44,
+     "ganho_db": 2.84,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "XA",
+     "dur_s": 0.44,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "cenoura",
+   "caminho": "corrida",
+   "pedacos": 3,
+   "recortes": [
+    {
+     "ini": 0.243,
+     "dur": 0.377,
+     "ganho_db": 0.91,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "CE",
+     "dur_s": 0.37,
+     "nucleos": 1,
+     "forma": "palavra"
+    },
+    {
+     "ini": 0.58,
+     "dur": 0.43,
+     "ganho_db": 0.29,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "NOU",
+     "dur_s": 0.43,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.88,
+     "dur": 0.31,
+     "ganho_db": 3.85,
+     "preso_no_teto": true,
+     "i": 2,
+     "silaba": "RA",
+     "dur_s": 0.31,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "chuva",
+   "caminho": "corrida",
+   "pedacos": 2,
+   "recortes": [
+    {
+     "ini": 0.227,
+     "dur": 0.41,
+     "ganho_db": 5.76,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "CHU",
+     "dur_s": 0.41,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.6,
+     "dur": 1.38,
+     "ganho_db": 10.0,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "VA",
+     "dur_s": 0.22,
+     "nucleos": 1,
+     "forma": "palavra"
+    }
+   ]
+  },
+  {
+   "palavra": "computador",
+   "caminho": "corrida",
+   "pedacos": 4,
+   "recortes": [
+    {
+     "ini": 0.2,
+     "dur": 0.3,
+     "ganho_db": 1.89,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "COM",
+     "dur_s": 0.3,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.46,
+     "dur": 0.3,
+     "ganho_db": -0.33,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "PU",
+     "dur_s": 0.3,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.62,
+     "dur": 0.32,
+     "ganho_db": -0.85,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "TA",
+     "dur_s": 0.32,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.82,
+     "dur": 0.33,
+     "ganho_db": -0.66,
+     "preso_no_teto": false,
+     "i": 3,
+     "silaba": "DOR",
+     "dur_s": 0.33,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "céu",
+   "caminho": "corrida",
+   "pedacos": 1,
+   "recortes": [
+    {
+     "ini": 0.234,
+     "dur": 0.48,
+     "ganho_db": 0.59,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "CÉU",
+     "dur_s": 0.48,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "elefante",
+   "caminho": "corrida",
+   "pedacos": 4,
+   "recortes": [
+    {
+     "ini": 0.215,
+     "dur": 0.31,
+     "ganho_db": -2.47,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "E",
+     "dur_s": 0.31,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.36,
+     "dur": 0.39,
+     "ganho_db": -0.61,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "LE",
+     "dur_s": 0.39,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.6,
+     "dur": 0.39,
+     "ganho_db": 1.59,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "FAN",
+     "dur_s": 0.39,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.96,
+     "dur": 0.22,
+     "ganho_db": 9.99,
+     "preso_no_teto": false,
+     "i": 3,
+     "silaba": "TE",
+     "dur_s": 0.22,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "escola",
+   "caminho": "corrida",
+   "pedacos": 3,
+   "recortes": [
+    {
+     "ini": 0.215,
+     "dur": 0.305,
+     "ganho_db": 1.21,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "ES",
+     "dur_s": 0.3,
+     "nucleos": 1,
+     "forma": "palavra"
+    },
+    {
+     "ini": 0.48,
+     "dur": 0.31,
+     "ganho_db": 0.23,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "CO",
+     "dur_s": 0.31,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.78,
+     "dur": 0.29,
+     "ganho_db": 6.87,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "LA",
+     "dur_s": 0.29,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "flor",
+   "caminho": "corrida",
+   "pedacos": 1,
+   "recortes": [
+    {
+     "ini": 0.24,
+     "dur": 1.65,
+     "ganho_db": -1.86,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "FLOR",
+     "dur_s": 0.45,
+     "nucleos": 1,
+     "forma": "palavra"
+    }
+   ]
+  },
+  {
+   "palavra": "gato",
+   "caminho": "corrida",
+   "pedacos": 2,
+   "recortes": [
+    {
+     "ini": 0.187,
+     "dur": 0.433,
+     "ganho_db": -0.48,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "GA",
+     "dur_s": 0.43,
+     "nucleos": 1,
+     "forma": "palavra"
+    },
+    {
+     "ini": 0.58,
+     "dur": 0.29,
+     "ganho_db": -0.93,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "TO",
+     "dur_s": 0.29,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "girafa",
+   "caminho": "corrida",
+   "pedacos": 3,
+   "recortes": [
+    {
+     "ini": 0.198,
+     "dur": 0.43,
+     "ganho_db": 4.63,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "GI",
+     "dur_s": 0.43,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.46,
+     "dur": 0.37,
+     "ganho_db": 0.85,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "RA",
+     "dur_s": 0.37,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.8,
+     "dur": 0.24,
+     "ganho_db": 10.65,
+     "preso_no_teto": true,
+     "i": 2,
+     "silaba": "FA",
+     "dur_s": 0.24,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "jacaré",
+   "caminho": "corrida",
+   "pedacos": 3,
+   "recortes": [
+    {
+     "ini": 0.203,
+     "dur": 0.46,
+     "ganho_db": 0.68,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "JA",
+     "dur_s": 0.46,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.56,
+     "dur": 0.33,
+     "ganho_db": -0.7,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "CA",
+     "dur_s": 0.33,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.76,
+     "dur": 0.35,
+     "ganho_db": 3.56,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "RÉ",
+     "dur_s": 0.35,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "janela",
+   "caminho": "corrida",
+   "pedacos": 3,
+   "recortes": [
+    {
+     "ini": 0.2,
+     "dur": 0.49,
+     "ganho_db": 0.02,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "JA",
+     "dur_s": 0.49,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.5,
+     "dur": 0.32,
+     "ganho_db": 1.22,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "NE",
+     "dur_s": 0.32,
+     "nucleos": 1,
+     "forma": "palavra"
+    },
+    {
+     "ini": 0.78,
+     "dur": 0.26,
+     "ganho_db": 6.53,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "LA",
+     "dur_s": 0.26,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "mar",
+   "caminho": "corrida",
+   "pedacos": 1,
+   "recortes": [
+    {
+     "ini": 0.212,
+     "dur": 0.41,
+     "ganho_db": 0.74,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "MAR",
+     "dur_s": 0.41,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "moeda",
+   "caminho": "corrida",
+   "pedacos": 3,
+   "recortes": [
+    {
+     "ini": 0.22,
+     "dur": 0.36,
+     "ganho_db": 1.23,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "MO",
+     "dur_s": 0.36,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.52,
+     "dur": 0.29,
+     "ganho_db": 2.92,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "E",
+     "dur_s": 0.29,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.72,
+     "dur": 0.29,
+     "ganho_db": 3.03,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "DA",
+     "dur_s": 0.29,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "mãe",
+   "caminho": "corrida",
+   "pedacos": 1,
+   "recortes": [
+    {
+     "ini": 0.214,
+     "dur": 0.47,
+     "ganho_db": 0.33,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "MÃE",
+     "dur_s": 0.47,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "panela",
+   "caminho": "corrida",
+   "pedacos": 3,
+   "recortes": [
+    {
+     "ini": 0.18,
+     "dur": 0.26,
+     "ganho_db": -0.48,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "PA",
+     "dur_s": 0.26,
+     "nucleos": 1,
+     "forma": "palavra"
+    },
+    {
+     "ini": 0.4,
+     "dur": 0.32,
+     "ganho_db": 2.13,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "NE",
+     "dur_s": 0.32,
+     "nucleos": 1,
+     "forma": "palavra"
+    },
+    {
+     "ini": 0.68,
+     "dur": 0.23,
+     "ganho_db": 7.4,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "LA",
+     "dur_s": 0.23,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "peixe",
+   "caminho": "corrida",
+   "pedacos": 2,
+   "recortes": [
+    {
+     "ini": 0.2,
+     "dur": 0.32,
+     "ganho_db": -1.9,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "PEI",
+     "dur_s": 0.32,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.58,
+     "dur": 1.38,
+     "ganho_db": 7.77,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "XE",
+     "dur_s": 0.2,
+     "nucleos": 1,
+     "forma": "palavra"
+    }
+   ]
+  },
+  {
+   "palavra": "piada",
+   "caminho": "corrida",
+   "pedacos": 3,
+   "recortes": [
+    {
+     "ini": 0.2,
+     "dur": 0.28,
+     "ganho_db": 3.56,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "PI",
+     "dur_s": 0.28,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.48,
+     "dur": 0.25,
+     "ganho_db": 1.02,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "A",
+     "dur_s": 0.25,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.64,
+     "dur": 0.26,
+     "ganho_db": 5.2,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "DA",
+     "dur_s": 0.26,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "professora",
+   "caminho": "corrida",
+   "pedacos": 4,
+   "recortes": [
+    {
+     "ini": 0.2,
+     "dur": 0.3,
+     "ganho_db": -1.34,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "PRO",
+     "dur_s": 0.3,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.44,
+     "dur": 0.34,
+     "ganho_db": 2.03,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "FES",
+     "dur_s": 0.34,
+     "nucleos": 1,
+     "forma": "palavra"
+    },
+    {
+     "ini": 0.74,
+     "dur": 0.53,
+     "ganho_db": 2.27,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "SO",
+     "dur_s": 0.53,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.98,
+     "dur": 0.34,
+     "ganho_db": 3.91,
+     "preso_no_teto": false,
+     "i": 3,
+     "silaba": "RA",
+     "dur_s": 0.34,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "pão",
+   "caminho": "corrida",
+   "pedacos": 1,
+   "recortes": [
+    {
+     "ini": 0.18,
+     "dur": 0.34,
+     "ganho_db": -0.02,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "PÃO",
+     "dur_s": 0.34,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "pé",
+   "caminho": "corrida",
+   "pedacos": 1,
+   "recortes": [
+    {
+     "ini": 0.2,
+     "dur": 0.28,
+     "ganho_db": -4.35,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "PÉ",
+     "dur_s": 0.28,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "saúde",
+   "caminho": "corrida",
+   "pedacos": 3,
+   "recortes": [
+    {
+     "ini": 0.236,
+     "dur": 0.5,
+     "ganho_db": -0.49,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "SA",
+     "dur_s": 0.5,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.66,
+     "dur": 0.32,
+     "ganho_db": 0.76,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "Ú",
+     "dur_s": 0.32,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.82,
+     "dur": 0.34,
+     "ganho_db": 9.79,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "DE",
+     "dur_s": 0.34,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "sol",
+   "caminho": "corrida",
+   "pedacos": 1,
+   "recortes": [
+    {
+     "ini": 0.239,
+     "dur": 0.47,
+     "ganho_db": 0.95,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "SOL",
+     "dur_s": 0.47,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "tatu",
+   "caminho": "corrida",
+   "pedacos": 2,
+   "recortes": [
+    {
+     "ini": 0.18,
+     "dur": 0.32,
+     "ganho_db": -2.69,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "TA",
+     "dur_s": 0.32,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.44,
+     "dur": 0.25,
+     "ganho_db": 0.67,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "TU",
+     "dur_s": 0.25,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "tomate",
+   "caminho": "corrida",
+   "pedacos": 3,
+   "recortes": [
+    {
+     "ini": 0.18,
+     "dur": 0.24,
+     "ganho_db": -3.18,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "TO",
+     "dur_s": 0.24,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.38,
+     "dur": 0.42,
+     "ganho_db": 0.72,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "MA",
+     "dur_s": 0.42,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.7,
+     "dur": 0.25,
+     "ganho_db": 8.96,
+     "preso_no_teto": false,
+     "i": 2,
+     "silaba": "TE",
+     "dur_s": 0.25,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  },
+  {
+   "palavra": "urso",
+   "caminho": "corrida",
+   "pedacos": 2,
+   "recortes": [
+    {
+     "ini": 0.213,
+     "dur": 0.34,
+     "ganho_db": -1.39,
+     "preso_no_teto": false,
+     "i": 0,
+     "silaba": "UR",
+     "dur_s": 0.34,
+     "nucleos": 1,
+     "forma": "citacao"
+    },
+    {
+     "ini": 0.56,
+     "dur": 0.45,
+     "ganho_db": 1.66,
+     "preso_no_teto": false,
+     "i": 1,
+     "silaba": "SO",
+     "dur_s": 0.45,
+     "nucleos": 1,
+     "forma": "citacao"
+    }
+   ]
+  }
+ ],
+ "nao_conferidas": []
+}
